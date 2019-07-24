@@ -5,7 +5,7 @@
 > CONTEXT: Scripts/Window_DebugRight/40:16 < UNTRANSLATED
 > CONTEXT: Scripts/デバッグ強化/408:20 < UNTRANSLATED
 > CONTEXT: Scripts/デバッグ強化/412:16 < UNTRANSLATED
-
+"
 > END STRING
 
 > BEGIN STRING
@@ -72,7 +72,7 @@
 > CONTEXT: Scripts/Scene_Shop/162:29 < UNTRANSLATED
 > CONTEXT: Scripts/Scene_Shop/218:29 < UNTRANSLATED
 > CONTEXT: Scripts/デバッグ強化/276:23 < UNTRANSLATED
-
+""
 > END STRING
 
 > BEGIN STRING
