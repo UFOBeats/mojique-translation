@@ -268,68 +268,69 @@
 今、このタイミングでセーブするのは危険の
 ようだ・・・
 > CONTEXT: Commonevents/118/562/Dialogue < UNTRANSLATED
-
+It appears to be too dangerous to save right now...
 > END STRING
 
 > BEGIN STRING
 セーブしますか？
 > CONTEXT: Commonevents/118/571/Dialogue < UNTRANSLATED
-
+Save your game?
 > END STRING
 
 > BEGIN STRING
 待たれよ。　古代竜族の鱗をまだ拾って
 いないのではないか？
 > CONTEXT: Commonevents/118/590/Dialogue < UNTRANSLATED
-
+Halt. You have yet to obtain the scales of the elder dragon,
+do you not?
 > END STRING
 
 > BEGIN STRING
 ダンジョンの入り口まで戻りますか？
 > CONTEXT: Commonevents/118/610/Dialogue < UNTRANSLATED
-
+Return to the dungeon entrance?
 > END STRING
 
 > BEGIN STRING
 ここでは使えないようだ・・・
 > CONTEXT: Commonevents/118/625/Dialogue < UNTRANSLATED
-
+It seems like you can't use this here...
 > END STRING
 
 > BEGIN STRING
 出現率を上げる
 > CONTEXT: Commonevents/118/644/Choice/0 < UNTRANSLATED
-
+Raise encounter rate
 > END STRING
 
 > BEGIN STRING
 出現率を普通にする
 > CONTEXT: Commonevents/118/644/Choice/1 < UNTRANSLATED
-
+Reset encounter rate
 > END STRING
 
 > BEGIN STRING
 使わない
 > CONTEXT: Commonevents/118/644/Choice/2 < UNTRANSLATED
-
+Don't use
 > END STRING
 
 > BEGIN STRING
 人形「き、来たいなら来ればいいじゃないっ」
 > CONTEXT: Commonevents/118/650/Dialogue < UNTRANSLATED
-
+Doll「Y-you can come here if you want!」
 > END STRING
 
 > BEGIN STRING
 人形「普通が一番よねっ」
 > CONTEXT: Commonevents/118/661/Dialogue < UNTRANSLATED
-
+Doll「Normal is best, isn't it.」
 > END STRING
 
 > BEGIN STRING
 敵と遭遇するエリアでないと使えない！
 > CONTEXT: Commonevents/118/676/Dialogue < UNTRANSLATED
-
+You can't use this in an area without enemy encounters!
 > END STRING
 
 > BEGIN STRING
@@ -357,7 +358,8 @@
 > CONTEXT: Commonevents/926/1187/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/926/1386/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/926/1555/Dialogue < UNTRANSLATED
-
+Hamuko's stomach is full...
+Force her to drink? (HP recovery amount halved)
 > END STRING
 
 > BEGIN STRING
@@ -385,7 +387,8 @@
 > CONTEXT: Commonevents/926/1237/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/926/1426/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/926/1605/Dialogue < UNTRANSLATED
-
+Nyanko's stomach is full...
+Force her to drink? (HP recovery amount halved)
 > END STRING
 
 > BEGIN STRING
@@ -413,7 +416,8 @@
 > CONTEXT: Commonevents/926/1287/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/926/1466/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/926/1655/Dialogue < UNTRANSLATED
-
+Tomocchi's stomach is full...
+Force her to drink? (HP recovery amount halved)
 > END STRING
 
 > BEGIN STRING
@@ -441,27 +445,30 @@
 > CONTEXT: Commonevents/926/1337/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/926/1506/Dialogue < UNTRANSLATED
 > CONTEXT: Commonevents/926/1705/Dialogue < UNTRANSLATED
-
+Hime's stomach is full...
+Force her to drink? (HP recovery amount halved)
 > END STRING
 
 > BEGIN STRING
 ゼリーちゃんを捨てるだと！？！？
 そんなの青くらげが許さんぞおおぉぉぉ！！！
 > CONTEXT: Commonevents/135/45/Dialogue < UNTRANSLATED
-
+Throw Jelly-chan away!?!?
+Aoi Kurage won't forgive you for thaaaaaaat!!!
 > END STRING
 
 > BEGIN STRING
 そのアイテムを捨てるだって？
 おいおい、エイプリルフールにはまだ早いぜ！
 > CONTEXT: Commonevents/135/49/Dialogue < UNTRANSLATED
-
+Throw this away?
+Hey, it's a bit soon for April Fool's jokes!
 > END STRING
 
 > BEGIN STRING
 このアイテムを捨てますか？
 > CONTEXT: Commonevents/135/57/Dialogue < UNTRANSLATED
-
+Throw this item away?
 > END STRING
 
 > BEGIN STRING
