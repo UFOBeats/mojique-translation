@@ -70,3 +70,4 @@ If you are contributing in one of the ways mentioned above (or in some other cap
 * WriterForce6XV - Localizer, Playtester, Bugfixer
 * 0x2F - Playtester
 * RubyRedRose - Playtester
+*Beats - Lead Translator 
